@@ -1,7 +1,7 @@
 # Clintrials
- Analysis on clinical trials currently available in clinicaltrials.gov
- Only considering studies that are industry sponsored
- Including studies that focus on drugs, biologics, gene therapy, combination products
+Analysis on clinical trials currently available in clinicaltrials.gov
+Only considering studies that are industry sponsored
+Including studies that focus on drugs, biologics, gene therapy, combination products
  Some questions that were answered:
    1. Breakdown of number of studies in these types of interventions
    2. Disease categories breakdown, most common conditions
