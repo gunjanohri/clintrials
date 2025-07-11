@@ -13,3 +13,4 @@
    8. Time taken by diseases
    9. Time taken by phases
    10. Breakdown by Locations
+libraries used- pandas, matplotlib, dash
