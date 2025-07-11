@@ -1,4 +1,4 @@
-# Clintrials
+# Clintrials-libraries used- pandas, matplotlib, dash
 /Analysis on clinical trials currently available in clinicaltrials.gov
 /Only considering studies that are industry sponsored
 /Including studies that focus on drugs, biologics, gene therapy, combination products
@@ -13,4 +13,4 @@
    8. Time taken by diseases
    9. Time taken by phases
    10. Breakdown by Locations
-libraries used- pandas, matplotlib, dash
+
